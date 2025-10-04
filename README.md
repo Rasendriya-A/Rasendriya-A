@@ -1,5 +1,3 @@
-<img width="30px" margin="0px" src="https://ra### 🚀 Quick Stats
-
 <h1>Howdy!, I am <a href="https://github.com/Rasendriya-A">Rasendriya</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 
@@ -45,7 +43,7 @@
   🔗 Want to collaborate or chat? Send me an <a href="mailto:rasendriyaa@upi.edu?subject=[GitHub]%20Contact&body=Hello%20Rasendriya%2C%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out%20...">email</a> or connect on <a href="https://www.linkedin.com/in/Rasendriyaa/">LinkedIn</a>!
 </p><br/>
 
-### � Quick Stats
+### Quick Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rasendriya-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasendriya-A&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
