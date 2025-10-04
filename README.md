@@ -1,4 +1,15 @@
-<img width="30px" margin="0px" src="https://raw.gitcontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<img width="30px" margin="0px" src="https://ra### 🚀 Quick Stats
+
+[![Rasendriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rasendriya-A&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasendriya-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasendriya-A&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasendriya-A&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&currStreakLabel=5BCDEC&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+</div>ntent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Howdy!, I am <a href="https://github.com/Rasendriya-A">Rasendriya</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 
