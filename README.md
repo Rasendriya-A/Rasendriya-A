@@ -8,7 +8,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Student🎓** passionate about technology and programming. I'm a **Tech Enthusiast 💻 😃** who loves learning and working with new technologies. I enjoy building interesting and amazing projects that serve a great purpose. <br/><br/>
+I'm a **Student🎓** passionate about technology, programming, and exploring the wonders of the universe. I'm a **Tech Enthusiast 💻 😃** with deep interests in **Astronomy 🌌**, **Design 🎨**, **Data Science 📊**, and **Artificial Intelligence 🤖**. I love learning and working with new technologies, and I enjoy building interesting and amazing projects that serve a great purpose. <br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
@@ -17,13 +17,16 @@ I'm a **Student🎓** passionate about technology and programming. I'm a **Tech 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Web Development
   - 📱 Mobile Applications
-  - 🤖 Programming & Software Development
-  - 💻 Learning New Technologies
+  - 🤖 Artificial Intelligence & Machine Learning
+  - 📊 Data Science & Analytics
+  - 🎨 UI/UX Design
+  - 🌌 Astronomy & Space Science
+  - 💻 Programming & Software Development
 - 📝 I write code and work on personal projects
 - 👯 I'm looking to collaborate on interesting programming projects
-- 💬 Ask me about programming, web development, and technology
+- 💬 Ask me about programming, web development, AI, data science, astronomy, and design
 - 📙 Check out my [GitHub Profile](https://github.com/Rasendriya-A)
-- 🎉 Fun-Fact: I love exploring new technologies and solving coding challenges
+- 🎉 Fun-Fact: I love exploring new technologies, solving coding challenges, and stargazing 🌟✨
 
   
 ### 🖥️ My DevSetup
