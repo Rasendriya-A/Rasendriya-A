@@ -1,11 +1,6 @@
 <img width="30px" margin="0px" src="https://raw.gitcontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Howdy!, I am <a href="https://github.com/Rasendriya-A">Rasendriya</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Rasendriya-A/)](https://github.com/Rasendriya-A/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rasendriya/)](https://www.linkedin.com/in/Rasendriyaa/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rasendriya@gmail.com)](mailto:rasendriyaa@upi.edu)
-
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Rasendriya-A&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
